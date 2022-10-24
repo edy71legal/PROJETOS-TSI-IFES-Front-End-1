@@ -1,0 +1,44 @@
+body  { 
+
+    background: white;"
+	  
+	}    
+
+#bloco1 {
+
+ background-color:#f7f2e7; 
+ padding: 40px;
+ border-top-left-radius: 20px;
+ border-top-right-radius: 20px;">
+
+} 
+
+
+#bloco2 {
+
+background: #e2cfa4;
+padding: 50px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+                
+} 
+
+a {
+
+	font-weight: bold;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-family: Tahoma;
+	color: #82704a;
+	text-decoration: none;
+	transition: all .6s ;
+
+} 
+
+a:hover {
+	font-size:15px;
+	color: white;
+	text-decoration: none;
+	-webkit-text-stroke: 2px #82704a; 
+	transition-timing-function: ease-in-out;
+}
